@@ -1,0 +1,829 @@
+Select item 472ATM
+
+ATM serine/threonine kinase [Homo sapiens (human)]	Chromosome 11, NC_000011.10 (108223067..108369102)	AT1, ATA, ATC, ATD, ATDC, ATE, TEL1, TELO1 
+Select item 672BRCA1
+
+BRCA1 DNA repair associated [Homo sapiens (human)]	Chromosome 17, NC_000017.11 (43044295..43170327, complement)	BRCAI, BRCC1, BROVCA1, FANCS, IRIS, PNCA4, PPP1R53, PSCP, RNF53 
+Select item 2067ERCC1
+
+ERCC excision repair 1, endonuclease non-catalytic subunit [Homo sapiens (human)]	Chromosome 19, NC_000019.10 (45407334..45451547, complement)	COFS4, RAD10, UV20 
+Select item 51750RTEL1
+
+regulator of telomere elongation helicase 1 [Homo sapiens (human)]	Chromosome 20, NC_000020.11 (63657810..63696253)	C20orf41, DKCA4, DKCB5, NHL, PFBMFT3, RTEL 
+Select item 675BRCA2
+
+BRCA2 DNA repair associated [Homo sapiens (human)]	Chromosome 13, NC_000013.11 (32315077..32400268)	BRCC2, BROVCA2, FACD, FAD, FAD1, FANCD, FANCD1, GLM3, PNCA2, XRCC11 
+Select item 7015TERT
+
+telomerase reverse transcriptase [Homo sapiens (human)]	Chromosome 5, NC_000005.10 (1253167..1295068, complement)	CMM9, DKCA2, DKCB4, EST2, PFBMFT1, TCS1, TP2, TRT, hEST2, hTRT 
+Select item 25913POT1
+
+protection of telomeres 1 [Homo sapiens (human)]	Chromosome 7, NC_000007.14 (124822386..124929825, complement)	CMM10, CRMCC3, GLM9, HPOT1, PFBMFT8, TPDS3 
+Select item 4436MSH2
+
+mutS homolog 2 [Homo sapiens (human)]	Chromosome 2, NC_000002.12 (47403067..47709830)	COCA1, FCC1, HNPCC, HNPCC1, LCFS2, LYNCH1, MMRCS2, MSH-2, hMSH2 
+Select item 2072ERCC4
+
+ERCC excision repair 4, endonuclease catalytic subunit [Homo sapiens (human)]	Chromosome 16, NC_000016.10 (13920154..13952348)	ERCC11, FANCQ, RAD1, XFEPS, XPF 
+Select item 7515XRCC1
+
+X-ray repair cross complementing 1 [Homo sapiens (human)]	Chromosome 19, NC_000019.10 (43543311..43575527, complement)	RCC, SCAR26 
+Select item 4361MRE11
+
+MRE11 double strand break repair nuclease [Homo sapiens (human)]	Chromosome 11, NC_000011.10 (94415570..94512412, complement)	ATLD, HNGS1A, MRE11B, MRE11 
+Select item 7520XRCC5
+
+X-ray repair cross complementing 5 [Homo sapiens (human)]	Chromosome 2, NC_000002.12 (216109348..216206293)	KARP-1, KARP1, KU80, KUB2, Ku86, NFIV 
+Select item 328APEX1
+
+apurinic/apyrimidinic endodeoxyribonuclease 1 [Homo sapiens (human)]	Chromosome 14, NC_000014.9 (20455226..20457767)	APE, APE1, APEN, APEX, APX, HAP1, REF1 
+Select item 10111RAD50
+
+RAD50 double strand break repair protein [Homo sapiens (human)]	Chromosome 5, NC_000005.10 (132556977..132646349)	NBSLD2, hRad50, RAD50 
+Select item 7517XRCC3
+
+X-ray repair cross complementing 3 [Homo sapiens (human)]	Chromosome 14, NC_000014.9 (103697617..103715451, complement)	CMM6 
+Select item 2547XRCC6
+
+X-ray repair cross complementing 6 [Homo sapiens (human)]	Chromosome 22, NC_000022.11 (41621295..41664041)	CTC75, CTCBF, G22P1, KU70, ML8, TLAA 
+Select item 3981LIG4
+
+DNA ligase 4 [Homo sapiens (human)]	Chromosome 13, NC_000013.11 (108207442..108218349, complement)	LIG4S 
+Select item 7014TERF2
+
+telomeric repeat binding factor 2 [Homo sapiens (human)]	Chromosome 16, NC_000016.10 (69355567..69386007, complement)	TRBF2, TRF2 
+Select item 5893RAD52
+
+RAD52 DNA repair protein [Homo sapiens (human)]	Chromosome 12, NC_000012.12 (911736..991122, complement)	 
+Select item 4683NBN
+
+nibrin [Homo sapiens (human)]	Chromosome 8, NC_000008.11 (89933331..89984667, complement)	AT-V1, AT-V2, ATV, NBS, NBS1, P95, hNbs1 
+Select item 7157TP53
+
+tumor protein p53 [Homo sapiens (human)]	Chromosome 17, NC_000017.11 (7668421..7687490, complement)	BCC7, BMFS5, LFS1, P53, TRP53 
+Select item 64421DCLRE1C
+
+DNA cross-link repair 1C [Homo sapiens (human)]	Chromosome 10, NC_000010.11 (14897359..14954432, complement)	A-SCID, DCLREC1C, RS-SCID, SCIDA, SNM1C 
+Select item 142PARP1
+
+poly(ADP-ribose) polymerase 1 [Homo sapiens (human)]	Chromosome 1, NC_000001.11 (226360691..226408093, complement)	ADPRT, ADPRT 1, ADPRT1, ARTD1, PARP, PARP-1, PARS, PPOL, Poly-PARP, pADPRT-1 
+Select item 5888RAD51
+
+RAD51 recombinase [Homo sapiens (human)]	Chromosome 15, NC_000015.10 (40694733..40732340)	BRCC5, FANCR, HRAD51, HsRad51, HsT16930, MRMV2A, RECA, RAD51 
+Select item 7012TERC
+
+telomerase RNA component [Homo sapiens (human)]	Chromosome 3, NC_000003.12 (169764610..169765060, complement)	DKCA1, PFBMFT2, SCARNA19, TER, TR, TRC3, hTR 
+Select item 64858DCLRE1B
+
+DNA cross-link repair 1B [Homo sapiens (human)]	Chromosome 1, NC_000001.11 (113904619..113914086)	APOLLO, DKCB8, SNM1B, SNMIB 
+Select item 6117RPA1
+
+replication protein A1 [Homo sapiens (human)]	Chromosome 17, NC_000017.11 (1830005..1900082)	HSSB, MST075, PFBMFT6, REPA1, RF-A, RP-A, RPA70 
+Select item 23411SIRT1
+
+sirtuin 1 [Homo sapiens (human)]	Chromosome 10, NC_000010.11 (67884656..67918390)	SIR2, SIR2L1, SIR2alpha 
+Select item 4292MLH1
+
+mutL homolog 1 [Homo sapiens (human)]	Chromosome 3, NC_000003.12 (36993466..37050846)	COCA2, FCC2, HNPCC, HNPCC2, LYNCH2, MLH-1, MMRCS1, hMLH1 
+Select item 5892RAD51D
+
+RAD51 paralog D [Homo sapiens (human)]	Chromosome 17, NC_000017.11 (35092221..35119860, complement)	BROVCA4, R51H3, RAD51L3, TRAD 
+Select item 11277TREX1
+
+three prime repair exonuclease 1 [Homo sapiens (human)]	Chromosome 3, NC_000003.12 (48465830..48467645)	AGS1, CRV, DRN3, HERNS, RVCLS 
+Select item 5885RAD21
+
+RAD21 cohesin complex component [Homo sapiens (human)]	Chromosome 8, NC_000008.11 (116845934..116874776, complement)	CDLS4, HR21, HRAD21, MCD1, MGS, NXP1, SCC1, hHR21 
+Select item 5591PRKDC
+
+protein kinase, DNA-activated, catalytic subunit [Homo sapiens (human)]	Chromosome 8, NC_000008.11 (47773111..47960136, complement)	DNA-PKC, DNA-PKcs, DNAPK, DNAPKc, DNPK1, HYRC, HYRC1, IMD26, S473K, XRCC7, p350 
+Select item 2189FANCG
+
+FA complementation group G [Homo sapiens (human)]	Chromosome 9, NC_000009.12 (35073839..35079942, complement)	FAG, XRCC9 
+Select item 5883RAD9A
+
+RAD9 checkpoint clamp component A [Homo sapiens (human)]	Chromosome 11, NC_000011.10 (67391986..67398412)	RAD9 
+Select item 545ATR
+
+ATR checkpoint kinase [Homo sapiens (human)]	Chromosome 3, NC_000003.12 (142449235..142578733, complement)	FCTCS, FRP1, MEC1, SCKL, SCKL1 
+Select item 3146HMGB1
+
+high mobility group box 1 [Homo sapiens (human)]	Chromosome 13, NC_000013.11 (30456704..30617597, complement)	HMG-1, HMG1, HMG3, SBP-1 
+Select item 7486WRN
+
+WRN RecQ like helicase [Homo sapiens (human)]	Chromosome 8, NC_000008.11 (31033810..31176138)	RECQ3, RECQL2, RECQL3 
+Select item 80119PIF1
+
+PIF1 5'-to-3' DNA helicase [Homo sapiens (human)]	Chromosome 15, NC_000015.10 (64815632..64827062, complement)	C15orf20, PIF 
+Select item 1956EGFR
+
+epidermal growth factor receptor [Homo sapiens (human)]	Chromosome 7, NC_000007.14 (55019017..55211628)	ERBB, ERBB1, ERRP, HER1, NISBD2, NNCIS, PIG61, mENA 
+
+Select item 2956MSH6
+
+mutS homolog 6 [Homo sapiens (human)]	Chromosome 2, NC_000002.12 (47783145..47810101)	GTBP, GTMBP, HNPCC5, HSAP, LYNCH5, MMRCS3, MSH-6, p160 
+Select item 51548SIRT6
+
+sirtuin 6 [Homo sapiens (human)]	Chromosome 19, NC_000019.10 (4174109..4182563, complement)	SIR2L6, hSIRT6 
+Select item 4609MYC
+
+MYC proto-oncogene, bHLH transcription factor [Homo sapiens (human)]	Chromosome 8, NC_000008.11 (127735434..127742951)	MRTLC, bHLHe39, c-Myc, MYC 
+Select item 64210MMS19
+
+MMS19 cytosolic iron-sulfur assembly component [Homo sapiens (human)]	Chromosome 10, NC_000010.11 (97458324..97498794, complement)	CIAO4, MET18L, hMMS19, MMS19 
+Select item 7852CXCR4
+
+C-X-C motif chemokine receptor 4 [Homo sapiens (human)]	Chromosome 2, NC_000002.12 (136114349..136118149, complement)	CD184, D2S201E, FB22, HM89, HSY3RR, LAP-3, LAP3, LCR1, LESTR, NPY3R, NPYR, NPYRL, NPYY3R, WHIM, WHIMS, WHIMS1 
+Select item 9894TELO2
+
+telomere maintenance 2 [Homo sapiens (human)]	Chromosome 16, NC_000016.10 (1493360..1510454)	CLK2, TEL2, YHFS 
+Select item 1499CTNNB1
+
+catenin beta 1 [Homo sapiens (human)]	Chromosome 3, NC_000003.12 (41199505..41240443)	CTNNB, EVR7, MRD19, NEDSDV, armadillo 
+Select item 1029CDKN2A
+
+cyclin dependent kinase inhibitor 2A [Homo sapiens (human)]	Chromosome 9, NC_000009.12 (21967752..21995324, complement)	ARF, CAI2, CDK4I, CDKN2, CMM2, INK4, INK4A, MLM, MTS-1, MTS1, P14, P14ARF, P16, P16-INK4A, P16INK4, P16INK4A, P19, P19ARF, TP16 
+Select item 5111PCNA
+
+proliferating cell nuclear antigen [Homo sapiens (human)]	Chromosome 20, NC_000020.11 (5114953..5126622, complement)	ATLD2 
+Select item 54386TERF2IP
+
+TERF2 interacting protein [Homo sapiens (human)]	Chromosome 16, NC_000016.10 (75647773..75657432)	DRIP5, RAP1 
+Select item 3569IL6
+
+interleukin 6 [Homo sapiens (human)]	Chromosome 7, NC_000007.14 (22727200..22731998)	BSF-2, BSF2, CDF, HGF, HSF, IFN-beta-2, IFNB2, IL-6 
+Select item 7422VEGFA
+
+vascular endothelial growth factor A [Homo sapiens (human)]	Chromosome 6, NC_000006.12 (43770211..43786487)	L-VEGF, MVCD1, VEGF, VPF 
+Select item 7528YY1
+
+YY1 transcription factor [Homo sapiens (human)]	Chromosome 14, NC_000014.9 (100239144..100282788)	DELTA, GADEVS, INO80S, NF-E1, UCRBP, YIN-YANG-1 
+Select item 7040TGFB1
+
+transforming growth factor beta 1 [Homo sapiens (human)]	Chromosome 19, NC_000019.10 (41330323..41353922, complement)	CED, DPD1, IBDIMDE, LAP, TGF-beta1, TGFB, TGFbeta 
+Select item 3014H2AX
+
+H2A.X variant histone [Homo sapiens (human)]	Chromosome 11, NC_000011.10 (119093874..119095465, complement)	H2A.X, H2A/X, H2AFX 
+Select item 7124TNF
+
+tumor necrosis factor [Homo sapiens (human)]	Chromosome 6, NC_000006.12 (31575565..31578336)	DIF, IMD127-alpha, TNFA, TNFSF2, TNLG1F, TNF 
+Select item 2237FEN1
+
+flap structure-specific endonuclease 1 [Homo sapiens (human)]	Chromosome 11, NC_000011.10 (61792911..61797238)	FEN-1, MF1, RAD2 
+Select item 5371PML
+
+PML nuclear body scaffold [Homo sapiens (human)]	Chromosome 15, NC_000015.10 (73994716..74047827)	MYL, PP8675, RNF71, TRIM19 
+Select item 3845KRAS
+
+KRAS proto-oncogene, GTPase [Homo sapiens (human)]	Chromosome 12, NC_000012.12 (25205246..25250929, complement)	'C-K-RAS, C-K-RAS, CFC2, K-RAS2A, K-RAS2B, K-RAS4A, K-RAS4B, K-Ras, K-Ras 2, KI-RAS1, KRAS2, NS, NS3, OES, RALD, RASK2, c-Ki-ras, c-Ki-ras2, KRAS 
+Select item 673BRAF
+
+B-Raf proto-oncogene, serine/threonine kinase [Homo sapiens (human)]	Chromosome 7, NC_000007.14 (140713328..140924929, complement)	B-RAF1, B-raf-1, BRAF1, NS7, RAFB1, BRAF 
+
+Select item 6118RPA2
+
+replication protein A2 [Homo sapiens (human)]	Chromosome 1, NC_000001.11 (27891524..27914797, complement)	REPA2, RP-A p32, RP-A p34, RPA32 
+Select item 86ACTL6A
+
+actin like 6A [Homo sapiens (human)]	Chromosome 3, NC_000003.12 (179562926..179588407)	ACTL6, ARPN-BETA, Arp4, BAF53A, INO80K, SMARCN1 
+Select item 4000LMNA
+
+lamin A/C [Homo sapiens (human)]	Chromosome 1, NC_000001.11 (156082573..156140081)	CDCD1, CDDC, CMD1A, CMT2B1, EMD2, FPL, FPLD, FPLD2, HGPS, IDC, LDP1, LFP, LGMD1B, LMN1, LMNC, LMNL1, MADA, PRO1 
+Select item 641BLM
+
+BLM RecQ like helicase [Homo sapiens (human)]	Chromosome 15, NC_000015.10 (90717346..90816166)	BS, MGRISCE1, RECQ2, RECQL2, RECQL3 
+Select item 8607RUVBL1
+
+RuvB like AAA ATPase 1 [Homo sapiens (human)]	Chromosome 3, NC_000003.12 (128064785..128153914, complement)	ECP-54, ECP54, INO80H, NMP 238, NMP238, PONTIN, Pontin52, RVB1, TIH1, TIP49, TIP49A 
+Select item 207AKT1
+
+AKT serine/threonine kinase 1 [Homo sapiens (human)]	Chromosome 14, NC_000014.9 (104769349..104795748, complement)	AKT, PKB, PKB-ALPHA, PRKBA, RAC, RAC-ALPHA 
+Select item 65057ACD
+
+ACD shelterin complex subunit and telomerase recruitment factor [Homo sapiens (human)]	Chromosome 16, NC_000016.10 (67657512..67660260, complement)	DKCA6, DKCB7, PIP1, PTOP, TINT1, TPP1 
+Select item 55135WRAP53
+
+WD repeat containing antisense to TP53 [Homo sapiens (human)]	Chromosome 17, NC_000017.11 (7686071..7703502)	DKCB3, TCAB1, WDR79 
+Select item 5594MAPK1
+
+mitogen-activated protein kinase 1 [Homo sapiens (human)]	Chromosome 22, NC_000022.11 (21759657..21867680, complement)	ERK, ERK-2, ERK2, ERT1, MAPK2, NS13, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK 
+Select item 7874USP7
+
+ubiquitin specific peptidase 7 [Homo sapiens (human)]	Chromosome 16, NC_000016.10 (8892097..8963906, complement)	C16DELp13.2, DEL16P13.2, HAFOUS, HAUSP, TEF1 
+Select item 10856RUVBL2
+
+RuvB like AAA ATPase 2 [Homo sapiens (human)]	Chromosome 19, NC_000019.10 (48993448..49015995)	CGI-46, ECP-51, ECP51, INO80J, REPTIN, RVB2, TAP54-beta, TIH2, TIP48, TIP49B 
+Select item 367AR
+
+androgen receptor [Homo sapiens (human)]	Chromosome X, NC_000023.11 (67544021..67730619)	AIS8, DHTR, HUMARA, HYSP1, KD, NR3C4, SBMA, SMAX1, TFM, AR 
+Select item 25ABL1
+
+ABL proto-oncogene 1, non-receptor tyrosine kinase [Homo sapiens (human)]	Chromosome 9, NC_000009.12 (130713043..130887675)	ABL, BCR-ABL, CHDSKM, JTK7, bcr/abl, c-ABL, c-ABL1, p150, v-abl 
+Select item 1457CSNK2A1
+
+casein kinase 2 alpha 1 [Homo sapiens (human)]	Chromosome 20, NC_000020.11 (472498..543790, complement)	CK2A1, CKII, Cka1, Cka2, OCNDS 
+Select item 348APOE
+
+apolipoprotein E [Homo sapiens (human)]	Chromosome 19, NC_000019.10 (44905796..44909393)	AD2, APO-E, ApoE4, LDLCQ5, LPG 
+Select item 1017CDK2
+
+cyclin dependent kinase 2 [Homo sapiens (human)]	Chromosome 12, NC_000012.12 (55966830..55972789)	CDKN2, p33(CDK2) 
+Select item 2064ERBB2
+
+erb-b2 receptor tyrosine kinase 2 [Homo sapiens (human)]	Chromosome 17, NC_000017.11 (39688094..39728658)	CD340, HER-2, HER-2/neu, HER2, MLN 19, MLN-19, NEU, NGL, TKR1, VSCN2, c-ERB-2, c-ERB2, p185(erbB2) 
+Select item 3320HSP90AA1
+
+heat shock protein 90 alpha family class A member 1 [Homo sapiens (human)]	Chromosome 14, NC_000014.9 (102080742..102139749, complement)	EL52, HEL-S-65p, HSP86, HSP89A, HSP90A, HSP90N, HSPC1, HSPCA, HSPCAL1, HSPCAL4, HSPN, Hsp103, Hsp89, Hsp90, LAP-2, LAP2 
+Select item 79068FTO
+
+FTO alpha-ketoglutarate dependent dioxygenase [Homo sapiens (human)]	Chromosome 16, NC_000016.10 (53703963..54121941)	ALKBH9, BMIQ14, GDFD, IFEX9 
+Select item 8658TNKS
+
+tankyrase [Homo sapiens (human)]	Chromosome 8, NC_000008.11 (9555912..9782346)	ARTD5, PARP-5a, PARP5A, PARPL, TIN1, TINF11, pART5, TNKS 
+Select item 4193MDM2
+
+MDM2 proto-oncogene [Homo sapiens (human)]	Chromosome 12, NC_000012.12 (68808172..68850686)	ACTFS, HDMX, LSKB, hdm2 
+Select item 84464SLX4
+
+SLX4 structure-specific endonuclease subunit [Homo sapiens (human)]	Chromosome 16, NC_000016.10 (3581181..3611606, complement)	BTBD12, FANCP, MUS312 
+Select item 1026CDKN1A
+
+cyclin dependent kinase inhibitor 1A [Homo sapiens (human)]	Chromosome 6, NC_000006.12 (36676463..36687332)	CAP20, CDKN1, CIP1, MDA-6, P21, SDI1, WAF1, p21CIP1 
+Select item 54617INO80
+
+INO80 complex ATPase subunit [Homo sapiens (human)]	Chromosome 15, NC_000015.10 (40978880..41116280, complement)	INO80A, INOC1 
+Select item 283847TERB1
+
+telomere repeat binding bouquet formation protein 1 [Homo sapiens (human)]	Chromosome 16, NC_000016.10 (66754640..66802025, complement)	CCDC79, SPGF60 
+Select item 9156EXO1
+
+exonuclease 1 [Homo sapiens (human)]	Chromosome 1, NC_000001.11 (241847986..241889939)	HEX1, hExoI 
+Select item 5054SERPINE1
+
+serpin family E member 1 [Homo sapiens (human)]	Chromosome 7, NC_000007.14 (101127104..101139247)	PAI, PAI-1, PAI1, PLANH1 
+Select item 546ATRX
+
+ATRX chromatin remodeler [Homo sapiens (human)]	Chromosome X, NC_000023.11 (77504880..77786216, complement)	JMS, MRX52, RAD54, RAD54L, XH2, XNP, ZNF-HX 
+Select item 5595MAPK3
+
+mitogen-activated protein kinase 3 [Homo sapiens (human)]	Chromosome 16, NC_000016.10 (30114105..30123220, complement)	ERK-1, ERK1, ERT2, HS44KDAP, HUMKER1A, P44ERK1, P44MAPK, PRKM3, p44-ERK1, p44-MAPK 
+Select item 23028KDM1A
+
+lysine demethylase 1A [Homo sapiens (human)]	Chromosome 1, NC_000001.11 (23019468..23083689)	AIMAH3, AOF2, BHC110, CPRF, KDM1, LSD1 
+Select item 1401CRP
+
+C-reactive protein [Homo sapiens (human)]	Chromosome 1, NC_000001.11 (159712289..159714589, complement)	PTX1 
+Select item 4524MTHFR
+
+methylenetetrahydrofolate reductase [Homo sapiens (human)]	Chromosome 1, NC_000001.11 (11785723..11805964, complement)	 
+Select item 1636ACE
+
+angiotensin I converting enzyme [Homo sapiens (human)]	Chromosome 17, NC_000017.11 (63477061..63498373)	ACE1, CD143, DCP, DCP1 
+Select item 596BCL2
+
+BCL2 apoptosis regulator [Homo sapiens (human)]	Chromosome 18, NC_000018.10 (63123346..63320090, complement)	Bcl-2, PPP1R50 
+Select item 2177FANCD2
+
+FA complementation group D2 [Homo sapiens (human)]	Chromosome 3, NC_000003.12 (10026437..10101932)	FA-D2, FA4, FACD, FAD, FAD2, FANCD 
+Select item 3980LIG3
+
+DNA ligase 3 [Homo sapiens (human)]	Chromosome 17, NC_000017.11 (34980512..35010872)	LIG2alpha, MTDPS20, LIG3 
+Select item 10445MCRS1
+
+microspherule protein 1 [Homo sapiens (human)]	Chromosome 12, NC_000012.12 (49558299..49568142, complement)	ICP22BP, INO80Q, MCRS2, MSP58, P78 
+Select item 1788DNMT3A
+
+DNA methyltransferase 3 alpha [Homo sapiens (human)]	Chromosome 2, NC_000002.12 (25227874..25342590, complement)	DNMT3A2, HESJAS, M.HsaIIIA, TBRS 
+Select item 9025RNF8
+
+ring finger protein 8 [Homo sapiens (human)]	Chromosome 6, NC_000006.12 (37353983..37394734)	hRNF8 
+Select item 145645TERB2
+
+telomere repeat binding bouquet formation protein 2 [Homo sapiens (human)]	Chromosome 15, NC_000015.10 (44956687..44979229)	C15orf43, SPGF59 
+
+Select item 6667SP1
+
+Sp1 transcription factor [Homo sapiens (human)]	Chromosome 12, NC_000012.12 (53380176..53416446)	 
+Select item 5743PTGS2
+
+prostaglandin-endoperoxide synthase 2 [Homo sapiens (human)]	Chromosome 1, NC_000001.11 (186671791..186680423, complement)	COX-2, COX2, GRIPGHS, PGG/HS, PGHS-2, PHS-2, hCox-2 
+Select item 4790NFKB1
+
+nuclear factor kappa B subunit 1 [Homo sapiens (human)]	Chromosome 4, NC_000004.12 (102501359..102617302)	CVID12, EBP-1, KBF1, NF-kB, NF-kB1, NF-kappa-B1, NF-kappaB, NF-kappabeta, NFKB-p105, NFKB-p50, NFkappaB 
+Select item 3553IL1B
+
+interleukin 1 beta [Homo sapiens (human)]	Chromosome 2, NC_000002.12 (112829751..112836779, complement)	IL-1, IL1-BETA, IL1F2, IL1beta 
+Select item 55183RIF1
+
+replication timing regulatory factor 1 [Homo sapiens (human)]	Chromosome 2, NC_000002.12 (151409902..151534435)	 
+Select item 5976UPF1
+
+UPF1 RNA helicase and ATPase [Homo sapiens (human)]	Chromosome 19, NC_000019.10 (18831959..18868230)	HUPF1, NORF1, RENT1, UTF, pNORF1, smg-2 
+Select item 165918RNF168
+
+ring finger protein 168 [Homo sapiens (human)]	Chromosome 3, NC_000003.12 (196468783..196503768, complement)	RIDL, hRNF168 
+Select item 9370ADIPOQ
+
+adiponectin, C1Q and collagen domain containing [Homo sapiens (human)]	Chromosome 3, NC_000003.12 (186842710..186858463)	ACDC, ACRP30, ADIPQTL1, ADPN, APM-1, APM1, GBP28 
+Select item 595CCND1
+
+cyclin D1 [Homo sapiens (human)]	Chromosome 11, NC_000011.10 (69641156..69654474)	BCL1, D11S287E, PRAD1, U21B31 
+Select item 999CDH1
+
+cadherin 1 [Homo sapiens (human)]	Chromosome 16, NC_000016.10 (68737292..68835537)	Arc-1, BCDS1, CD324, CDHE, ECAD, LCAM, UVO 
+Select item 3479IGF1
+
+insulin like growth factor 1 [Homo sapiens (human)]	Chromosome 12, NC_000012.12 (102395874..102481839, complement)	IGF, IGF-I, IGFI, MGF 
+Select item 4846NOS3
+
+nitric oxide synthase 3 [Homo sapiens (human)]	Chromosome 7, NC_000007.14 (150991017..151014588)	ECNOS, eNOS 
+Select item 1786DNMT1
+
+DNA methyltransferase 1 [Homo sapiens (human)]	Chromosome 19, NC_000019.10 (10133346..10194953, complement)	ADCADN, AIM, CXXC9, DNMT, HSN1E, MCMT, m.HsaI 
+Select item 580BARD1
+
+BRCA1 associated RING domain 1 [Homo sapiens (human)]	Chromosome 2, NC_000002.12 (214725646..214809683, complement)	 
+Select item 5468PPARG
+
+peroxisome proliferator activated receptor gamma [Homo sapiens (human)]	Chromosome 3, NC_000003.12 (12287368..12434344)	CIMT1, FPLD3, GLM1, NR1C31, PPARG2, PPARG5, PPARgamma, PPARG 
+Select item 1459CSNK2A2
+
+casein kinase 2 alpha 2 [Homo sapiens (human)]	Chromosome 16, NC_000016.10 (58157907..58198106, complement)	CK2A2, CK2alpha', CSNK2A1 
+Select item 2521FUS
+
+FUS RNA binding protein [Homo sapiens (human)]	Chromosome 16, NC_000016.10 (31180110..31194871)	ALS6, ETM41, HNRNPP2, POMP75, TLS, altFUS, FUS 
+Select item 1763DNA2
+
+DNA replication helicase/nuclease 2 [Homo sapiens (human)]	Chromosome 10, NC_000010.11 (68414064..68472521, complement)	DNA2L, RTS4, hDNA2 
+Select item 5290PIK3CA
+
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [Homo sapiens (human)]	Chromosome 3, NC_000003.12 (179148126..179240093)	CCM4, CLAPO, CLOVE, CWS5, HMH, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha 
+Select item 2944GSTM1
+
+glutathione S-transferase mu 1 [Homo sapiens (human)]	Chromosome 1, NC_000001.11 (109687817..109693745)	GST1-1, GSTM1a-1a, GSTM1b-1b, GTH4, GTM1, H-B, MU, MU-1, GSTM1 
+
+Select item 3952LEP
+
+leptin [Homo sapiens (human)]	Chromosome 7, NC_000007.14 (128241278..128257629)	LEPD, OB, OBS 
+Select item 983CDK1
+
+cyclin dependent kinase 1 [Homo sapiens (human)]	Chromosome 10, NC_000010.11 (60778331..60794852)	CDC2, CDC28A, P34CDC2 
+Select item 8091HMGA2
+
+high mobility group AT-hook 2 [Homo sapiens (human)]	Chromosome 12, NC_000012.12 (65824460..65966291)	BABL, HMGI-C, HMGIC, LIPO, SRS5, STQTL9 
+Select item 11284PNKP
+
+polynucleotide kinase 3'-phosphatase [Homo sapiens (human)]	Chromosome 19, NC_000019.10 (49861204..49867576, complement)	AOA4, CMT2B2, EIEE10, MCSZ, PNK 
+Select item 5889RAD51C
+
+RAD51 paralog C [Homo sapiens (human)]	Chromosome 17, NC_000017.11 (58692573..58735611)	BROVCA3, FANCO, R51H3, RAD51L2 
+Select item 3178HNRNPA1
+
+heterogeneous nuclear ribonucleoprotein A1 [Homo sapiens (human)]	Chromosome 12, NC_000012.12 (54280726..54287087)	ALS19, ALS20, HNRPA1, HNRPA1L3, IBMPFD3, MPD3, UP 1, hnRNP A1, hnRNP-A1 
+Select item 6714SRC
+
+SRC proto-oncogene, non-receptor tyrosine kinase [Homo sapiens (human)]	Chromosome 20, NC_000020.11 (37344699..37406050)	ASV1, THC6, c-SRC, p60-Src, SRC 
+Select item 2332FMR1
+
+fragile X messenger ribonucleoprotein 1 [Homo sapiens (human)]	Chromosome X, NC_000023.11 (147911919..147951125)	FMRP, FRAXA, POF, POF1 
+Select item 6119RPA3
+
+replication protein A3 [Homo sapiens (human)]	Chromosome 7, NC_000007.14 (7636518..7718607, complement)	REPA3, RP-A p14 
+Select item 5925RB1
+
+RB transcriptional corepressor 1 [Homo sapiens (human)]	Chromosome 13, NC_000013.11 (48303751..48481890)	OSRC, PPP1R130, RB, p105-Rb, p110-RB1, pRb, pp110 
+Select item 80198MUS81
+
+MUS81 structure-specific endonuclease subunit [Homo sapiens (human)]	Chromosome 11, NC_000011.10 (65859674..65867653)	SLX3 
+Select item 2033EP300
+
+EP300 lysine acetyltransferase [Homo sapiens (human)]	Chromosome 22, NC_000022.11 (41092592..41180077)	KAT3B, MKHK2, RSTS2, p300 
+Select item 9401RECQL4
+
+RecQ like helicase 4 [Homo sapiens (human)]	Chromosome 8, NC_000008.11 (144511288..144517833, complement)	RECQ4 
+Select item 120892LRRK2
+
+leucine rich repeat kinase 2 [Homo sapiens (human)]	Chromosome 12, NC_000012.12 (40224997..40369285)	AURA17, DARDARIN, PARK8, RIPK7, ROCO2 
+Select item 10459MAD2L2
+
+mitotic arrest deficient 2 like 2 [Homo sapiens (human)]	Chromosome 1, NC_000001.11 (11674480..11691830, complement)	FANCV, MAD2B, POLZ2, REV7 
+Select item 2309FOXO3
+
+forkhead box O3 [Homo sapiens (human)]	Chromosome 6, NC_000006.12 (108559825..108684774)	AF6q21, FKHRL1, FKHRL1P2, FOXO2A, FOXO3 
+Select item 25939SAMHD1
+
+SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1 [Homo sapiens (human)]	Chromosome 20, NC_000020.11 (36889773..36951708, complement)	CHBL2, DCIP, HDDC1, MOP-5, SBBI88, hSAMHD1 
+Select item 406947MIR155
+
+microRNA 155 [Homo sapiens (human)]	Chromosome 21, NC_000021.9 (25573980..25574044)	MIRN155, miRNA155, mir-155 
+Select item 3297HSF1
+
+heat shock transcription factor 1 [Homo sapiens (human)]	Chromosome 8, NC_000008.11 (144291604..144314720)	HSTF1 
+Select item 9656MDC1
+
+mediator of DNA damage checkpoint 1 [Homo sapiens (human)]	Chromosome 6, NC_000006.12 (30699807..30717281, complement)	NFBD1 
+
+LGALS3
+
+galectin 3 [Homo sapiens (human)]	Chromosome 14, NC_000014.9 (55129252..55145430)	CBP35, GAL3, GALBP, GALIG, L31, LGALS2, MAC2 
+Select item 3417IDH1
+
+isocitrate dehydrogenase (NADP(+)) 1 [Homo sapiens (human)]	Chromosome 2, NC_000002.12 (208236227..208255071, complement)	HEL-216, HEL-S-26, IDCD, IDH, IDP, IDPC, PICD 
+Select item 5981RFC1
+
+replication factor C subunit 1 [Homo sapiens (human)]	Chromosome 4, NC_000004.12 (39287456..39366362, complement)	A1, CANVAS, MHCBFB, PO-GA, RECC1, RFC40, RFC1 
+Select item 3084NRG1
+
+neuregulin 1 [Homo sapiens (human)]	Chromosome 8, NC_000008.11 (31639245..32774046)	ARIA, GGF, GGF2, HGL, HRG, HRG1, HRGA, MST131, MSTP131, NDF-IT2, SMDF, NRG1 
+Select item 9212AURKB
+
+aurora kinase B [Homo sapiens (human)]	Chromosome 17, NC_000017.11 (8204731..8210575, complement)	AIK2, AIM-1, AIM1, ARK-2, ARK2, AurB, IPL1, PPP1R48, STK-1, STK12, STK5, aurkb-sv1, aurkb-sv2 
+Select item 3606IL18
+
+interleukin 18 [Homo sapiens (human)]	Chromosome 11, NC_000011.10 (112143260..112164094, complement)	IGIF, IL-18, IL-1g, IL1F4 
+Select item 23476BRD4
+
+bromodomain containing 4 [Homo sapiens (human)]	Chromosome 19, NC_000019.10 (15235519..15332539, complement)	CAP, CDLS6, FSHRG4, HUNK1, HUNKI, MCAP 
+Select item 5329PLAUR
+
+plasminogen activator, urokinase receptor [Homo sapiens (human)]	Chromosome 19, NC_000019.10 (43646095..43670169, complement)	CD87, U-PAR, UPAR, URKR 
+Select item 51377UCHL5
+
+ubiquitin C-terminal hydrolase L5 [Homo sapiens (human)]	Chromosome 1, NC_000001.11 (193012254..193060076, complement)	CGI-70, INO80R, UCH-L5, UCH37 
+Select item 5499PPP1CA
+
+protein phosphatase 1 catalytic subunit alpha [Homo sapiens (human)]	Chromosome 11, NC_000011.10 (67398183..67401858, complement)	PP-1A, PP1A, PP1alpha, PPP1A 
+Select item 7153TOP2A
+
+DNA topoisomerase II alpha [Homo sapiens (human)]	Chromosome 17, NC_000017.11 (40388525..40417896, complement)	TOP2, TOP2alpha, TOPIIA, TP2A 
+Select item 861RUNX1
+
+RUNX family transcription factor 1 [Homo sapiens (human)]	Chromosome 21, NC_000021.9 (34787801..35049302, complement)	AML1, AML1-EVI-1, AMLCR1, CBF2alpha, CBFA2, EVI-1, PEBP2aB, PEBP2alpha 
+Select item 29072SETD2
+
+SET domain containing 2, histone lysine methyltransferase [Homo sapiens (human)]	Chromosome 3, NC_000003.12 (47016436..47164840, complement)	HBP231, HIF-1, HIP-1, HSPC069, HYPB, KMT3A, LLS, MRD70, RAPAS, SET2, p231HBP 
+Select item 338APOB
+
+apolipoprotein B [Homo sapiens (human)]	Chromosome 2, NC_000002.12 (21001429..21044073, complement)	FCHL2, FLDB, LDLCQ4, apoB-100, apoB-48 
+Select item 79840NHEJ1
+
+non-homologous end joining factor 1 [Homo sapiens (human)]	Chromosome 2, NC_000002.12 (219069357..219160815, complement)	IMD124, MCOPCB13, XLF 
+Select item 7048TGFBR2
+
+transforming growth factor beta receptor 2 [Homo sapiens (human)]	Chromosome 3, NC_000003.12 (30606356..30694142)	AAT3, FAA3, LDS1B, LDS2, LDS2B, MFS2, RIIC, TAAD2, TBR-ii, TBRII, TGFR-2, TGFbeta-RII, tbetaR-II 
+Select item 4763NF1
+
+neurofibromin 1 [Homo sapiens (human)]	Chromosome 17, NC_000017.11 (31094977..31377675)	NFNS, VRNF, WSS 
+Select item 23137SMC5
+
+structural maintenance of chromosomes 5 [Homo sapiens (human)]	Chromosome 9, NC_000009.12 (70258978..70354873)	ATELS2L1, SMC5 
+Select item 55294FBXW7
+
+F-box and WD repeat domain containing 7 [Homo sapiens (human)]	Chromosome 4, NC_000004.12 (152320544..152536092, complement)	AGO, CDC4, DEDHIL, FBW6, FBW7, FBX30, FBXO30, FBXW6, SEL-10, SEL10, hAgo, hCdc4 
+Select item 3481IGF2
+
+insulin like growth factor 2 [Homo sapiens (human)]	Chromosome 11, NC_000011.10 (2129117..2149566, complement)	C11orf43, GRDF, IGF-II, PP9974, SRS3 
+
+
+KLF4
+
+KLF transcription factor 4 [Homo sapiens (human)]	Chromosome 9, NC_000009.12 (107484852..107489769, complement)	EZF, GKLF 
+Select item 340061STING1
+
+stimulator of interferon response cGAMP interactor 1 [Homo sapiens (human)]	Chromosome 5, NC_000005.10 (139475533..139482758, complement)	ERIS, MITA, MPYS, NET23, SAVI, STING, STING-beta, TMEM173, hMITA, hSTING 
+Select item 407040MIR34A
+
+microRNA 34a [Homo sapiens (human)]	Chromosome 1, NC_000001.11 (9151668..9151777, complement)	MIRN34A, miRNA34A, mir-34, mir-34a 
+Select item 3181HNRNPA2B1
+
+heterogeneous nuclear ribonucleoprotein A2/B1 [Homo sapiens (human)]	Chromosome 7, NC_000007.14 (26189927..26200746, complement)	HNRNPA2, HNRNPB1, HNRPA2, HNRPA2B1, HNRPB1, IBMPFD2, OPMD2, RNPA2, SNRPB1 
+Select item 5965RECQL
+
+RecQ like helicase [Homo sapiens (human)]	Chromosome 12, NC_000012.12 (21468910..21501635, complement)	RECON1, RecQ1, RECQL 
+Select item 10039PARP3
+
+poly(ADP-ribose) polymerase family member 3 [Homo sapiens (human)]	Chromosome 3, NC_000003.12 (51942363..51948867)	ADPRT3, ADPRTL2, ADPRTL3, ARTD3, IRT1, PADPRT-3 
+Select item 9365KL
+
+klotho [Homo sapiens (human)]	Chromosome 13, NC_000013.11 (33016243..33066143)	HFTC3A, KL 
+Select item 50485SMARCAL1
+
+SNF2 related chromatin remodeling annealing helicase 1 [Homo sapiens (human)]	Chromosome 2, NC_000002.12 (216412484..216483053)	HARP, HHARP 
+Select item 79648MCPH1
+
+microcephalin 1 [Homo sapiens (human)]	Chromosome 8, NC_000008.11 (6406627..6648508)	BRIT1, MCT 
+Select item 8914TIMELESS
+
+timeless circadian regulator [Homo sapiens (human)]	Chromosome 12, NC_000012.12 (56416363..56449426, complement)	FASPS4, TIM, TIM1, hTIM 
+Select item 2175FANCA
+
+FA complementation group A [Homo sapiens (human)]	Chromosome 16, NC_000016.10 (89737549..89816647, complement)	FA, FA-H, FA1, FAA, FACA, FAH, FANCH 
+Select item 60489APOBEC3G
+
+apolipoprotein B mRNA editing enzyme catalytic subunit 3G [Homo sapiens (human)]	Chromosome 22, NC_000022.11 (39077005..39087743)	A3G, ARCD, ARP-9, ARP9, CEM-15, CEM15, MDS019, bK150C2.7, dJ494G10.1 
+Select item 2056EPO
+
+erythropoietin [Homo sapiens (human)]	Chromosome 7, NC_000007.14 (100720468..100723700)	DBAL, ECYT5, EP, MVCD2 
+Select item 10635RAD51AP1
+
+RAD51 associated protein 1 [Homo sapiens (human)]	Chromosome 12, NC_000012.12 (4538890..4560047)	PIR51 
+Select item 406913MIR126
+
+microRNA 126 [Homo sapiens (human)]	Chromosome 9, NC_000009.12 (136670602..136670686)	MIRN126, miRNA126, mir-126 
+Select item 6240RRM1
+
+ribonucleotide reductase catalytic subunit M1 [Homo sapiens (human)]	Chromosome 11, NC_000011.10 (4094685..4138932)	PEOB6, R1, RIR1, RR1 
+Select item 354KLK3
+
+kallikrein related peptidase 3 [Homo sapiens (human)]	Chromosome 19, NC_000019.10 (50854915..50860764)	APS, KLK2A1, PSA, hK3 
+Select item 3364HUS1
+
+HUS1 checkpoint clamp component [Homo sapiens (human)]	Chromosome 7, NC_000007.14 (47963288..47979615, complement)	hHUS1 
+Select item 79677SMC6
+
+structural maintenance of chromosomes 6 [Homo sapiens (human)]	Chromosome 2, NC_000002.12 (17663812..17753810, complement)	SMC-6L1, hSMC6, SMC6 
+Select item 50507NOX4
+
+NADPH oxidase 4 [Homo sapiens (human)]	Chromosome 11, NC_000011.10 (89324353..89589557, complement)	KOX, KOX-1, RENOX 
+
+
+BCR
+
+BCR activator of RhoGEF and GTPase [Homo sapiens (human)]	Chromosome 22, NC_000022.11 (23180509..23318037)	ALL1, CML, D22S11, D22S662, PHL, BCR 
+Select item 1663DDX11
+
+DEAD/H-box helicase 11 [Homo sapiens (human)]	Chromosome 12, NC_000012.12 (31073860..31104799)	CHL1, CHLR1, KRG2, WABS 
+Select item 84164ASCC2
+
+activating signal cointegrator 1 complex subunit 2 [Homo sapiens (human)]	Chromosome 22, NC_000022.11 (29788611..29838274, complement)	ASC1p100, p100 
+Select item 1616DAXX
+
+death domain associated protein [Homo sapiens (human)]	Chromosome 6, NC_000006.12 (33318558..33322959, complement)	BING2, DAP6, EAP1, SMIM40 
+Select item 7320UBE2B
+
+ubiquitin conjugating enzyme E2 B [Homo sapiens (human)]	Chromosome 5, NC_000005.10 (134371569..134392108)	E2-17kDa, HHR6B, HR6B, RAD6B, UBC2 
+Select item 23064SETX
+
+senataxin [Homo sapiens (human)]	Chromosome 9, NC_000009.12 (132261356..132356744, complement)	ALS4, AOA2, SCAN2, SCAR1, STEX, Sen1, bA479K20.2 
+Select item 54790TET2
+
+tet methylcytosine dioxygenase 2 [Homo sapiens (human)]	Chromosome 4, NC_000004.12 (105145875..105279803)	IMD75, KIAA1546, MDS 
+Select item 10664CTCF
+
+CCCTC-binding factor [Homo sapiens (human)]	Chromosome 16, NC_000016.10 (67562526..67639177)	CFAP108, FAP108, MRD21 
+Select item 4798NFRKB
+
+nuclear factor related to kappaB binding protein [Homo sapiens (human)]	Chromosome 11, NC_000011.10 (129863636..129895578, complement)	INO80G 
+Select item 79035NABP2
+
+nucleic acid binding protein 2 [Homo sapiens (human)]	Chromosome 12, NC_000012.12 (56222015..56229854)	OBFC2B, SOSS-B1, SSB1, hSSB1 
+Select item 2597GAPDH
+
+glyceraldehyde-3-phosphate dehydrogenase [Homo sapiens (human)]	Chromosome 12, NC_000012.12 (6534517..6538371)	G3PD, GAPD, HEL-S-162eP 
+Select item 548593SLX1A
+
+structure-specific endonuclease subunit SLX1A [Homo sapiens (human)]	Chromosome 16, NC_000016.10 (30193843..30197566)	GIYD1 
+Select item 84444DOT1L
+
+DOT1 like histone lysine methyltransferase [Homo sapiens (human)]	Chromosome 19, NC_000019.10 (2163933..2232578)	DOT1, KMT4, NDNS 
+Select item 79913ACTR5
+
+actin related protein 5 [Homo sapiens (human)]	Chromosome 20, NC_000020.11 (38748460..38772520)	Arp5, INO80M 
+Select item 286053NSMCE2
+
+NSE2 SUMO ligase component of SMC5/6 complex [Homo sapiens (human)]	Chromosome 8, NC_000008.11 (125091860..125367120)	C8orf36, MMS21, NSE2, ZMIZ7 
+Select item 23410SIRT3
+
+sirtuin 3 [Homo sapiens (human)]	Chromosome 11, NC_000011.10 (215030..236931, complement)	SIR2L3 
+Select item 7156TOP3A
+
+DNA topoisomerase III alpha [Homo sapiens (human)]	Chromosome 17, NC_000017.11 (18271428..18314994, complement)	MGRISCE2, PEOB5, TOP3, ZGRF7 
+Select item 3183HNRNPC
+
+heterogeneous nuclear ribonucleoprotein C [Homo sapiens (human)]	Chromosome 14, NC_000014.9 (21209147..21269442, complement)	C1, C2, HNRNP, HNRPC, MRD74, SNRPC 
+Select item 5443POMC
+
+proopiomelanocortin [Homo sapiens (human)]	Chromosome 2, NC_000002.12 (25160860..25168580, complement)	ACTH, CLIP, LPH, MSH, NPP, OBAIRH, POC 
+Select item 93973ACTR8
+
+actin related protein 8 [Homo sapiens (human)]	Chromosome 3, NC_000003.12 (53858992..53882152, complement)	ARP8, INO80N, hArp8 
+
+HNRNPU
+
+heterogeneous nuclear ribonucleoprotein U [Homo sapiens (human)]	Chromosome 1, NC_000001.11 (244850297..244864543, complement)	DEE54, EIEE54, GRIP120-AS1, HNRPU, SAF-A, SAFA, U21.1, hnRNP U, pp120, HNRNPU 
+Select item 2252FGF7
+
+fibroblast growth factor 7 [Homo sapiens (human)]	Chromosome 15, NC_000015.10 (49423242..49488775)	HBGF-7, KGF 
+Select item 2648KAT2A
+
+lysine acetyltransferase 2A [Homo sapiens (human)]	Chromosome 17, NC_000017.11 (42113111..42121367, complement)	GCN5, GCN5L2, PCAF-b, hGCN5 
+Select item 3624INHBA
+
+inhibin subunit beta A [Homo sapiens (human)]	Chromosome 7, NC_000007.14 (41685114..41705406, complement)	EDF, FRP 
+Select item 1787TRDMT1
+
+tRNA aspartic acid methyltransferase 1 [Homo sapiens (human)]	Chromosome 10, NC_000010.11 (17137336..17201672, complement)	DMNT2, DNMT2, MHSAIIP, PUMET, RNMT1 
+Select item 5052PRDX1
+
+peroxiredoxin 1 [Homo sapiens (human)]	Chromosome 1, NC_000001.11 (45511051..45522890, complement)	MSP23, NKEF-A, NKEFA, PAG, PAGA, PAGB, PRX1, PRXI, TDPX2 
+Select item 9636ISG15
+
+ISG15 ubiquitin like modifier [Homo sapiens (human)]	Chromosome 1, NC_000001.11 (1013497..1014540)	G1P2, IFI15, IMD38, IP17, UCRP, hUCRP 
+Select item 26354GNL3
+
+G protein nucleolar 3 [Homo sapiens (human)]	Chromosome 3, NC_000003.12 (52685920..52694497)	C77032, E2IG3, NNP47, NS, Nug1 
+Select item 5906RAP1A
+
+RAP1A, member of RAS oncogene family [Homo sapiens (human)]	Chromosome 1, NC_000001.11 (111542009..111716691)	C21KG, G-22K, KREV-1, KREV1, RAP1, SMGP21 
+Select item 55120FANCL
+
+FA complementation group L [Homo sapiens (human)]	Chromosome 2, NC_000002.12 (58159243..58241380, complement)	FAAP43, PHF9, POG 
+Select item 79008SLX1B
+
+structure-specific endonuclease subunit SLX1B [Homo sapiens (human)]	Chromosome 16, NC_000016.10 (29454533..29458220)	GIYD2 
+Select item 5524PTPA
+
+protein phosphatase 2 phosphatase activator [Homo sapiens (human)]	Chromosome 9, NC_000009.12 (129110950..129148946)	PARK25, PP2A, PPP2R4, PR53 
+Select item 408ARRB1
+
+arrestin beta 1 [Homo sapiens (human)]	Chromosome 11, NC_000011.10 (75260122..75351661, complement)	ARB1, ARR1 
+Select item 4001LMNB1
+
+lamin B1 [Homo sapiens (human)]	Chromosome 5, NC_000005.10 (126776623..126837020)	ADLD, ADLDAT, LMN, LMN2, LMNB, MCPH26 
+Select item 2810SFN
+
+stratifin [Homo sapiens (human)]	Chromosome 1, NC_000001.11 (26863149..26864456)	YWHAS 
+Select item 54464XRN1
+
+5'-3' exoribonuclease 1 [Homo sapiens (human)]	Chromosome 3, NC_000003.12 (142306610..142448037, complement)	SEP1 
+Select item 9555MACROH2A1
+
+macroH2A.1 histone [Homo sapiens (human)]	Chromosome 5, NC_000005.10 (135334381..135399887, complement)	H2A.y, H2A/y, H2AF12M, H2AFY.1, mH2A1, macroH2A1.2, MACROH2A1 
+Select item 23468CBX5
+
+chromobox 5 [Homo sapiens (human)]	Chromosome 12, NC_000012.12 (54230942..54280122, complement)	HEL25, HP1, HP1A, HP1alpha 
+Select item 407010MIR23A
+
+microRNA 23a [Homo sapiens (human)]	Chromosome 19, NC_000019.10 (13836587..13836659, complement)	MIRN23A, hsa-mir-23a, miRNA23A, mir-23a 
+Select item 995CDC25C
+
+cell division cycle 25C [Homo sapiens (human)]	Chromosome 5, NC_000005.10 (138285265..138338355, complement)	CDC25, PPP1R60 
+
+H4C16
+
+H4 histone 16 [Homo sapiens (human)]	Chromosome 12, NC_000012.12 (14770720..14771131, complement)	H4-16, H4/p, H4C1, H4C11, H4C12, H4C13, H4C14, H4C15, H4C2, H4C3, H4C4, H4C5, H4C6, H4C8, H4C9, HIST4H4 
+Select item 29844TFPT
+
+TCF3 fusion partner [Homo sapiens (human)]	Chromosome 19, NC_000019.10 (54107020..54115657, complement)	FB1, INO80F, amida 
+Select item 22891ZNF365
+
+zinc finger protein 365 [Homo sapiens (human)]	Chromosome 10, NC_000010.11 (62374369..62480285)	Su48, UAND, ZNF365 
+Select item 5094PCBP2
+
+poly(rC) binding protein 2 [Homo sapiens (human)]	Chromosome 12, NC_000012.12 (53452102..53481162)	HNRNPE2, HNRPE2, hnRNP-E2 
+Select item 10212DDX39A
+
+DExD-box helicase 39A [Homo sapiens (human)]	Chromosome 19, NC_000019.10 (14408798..14419383, complement)	BAT1, BAT1L, DDX39, DDXL, URH49 
+Select item 5394EXOSC10
+
+exosome component 10 [Homo sapiens (human)]	Chromosome 1, NC_000001.11 (11066618..11099869, complement)	PM-Scl, PM/Scl-100, PMSCL, PMSCL2, RRP6, Rrp6p, p2, p3, p4 
+Select item 3516RBPJ
+
+recombination signal binding protein for immunoglobulin kappa J region [Homo sapiens (human)]	Chromosome 4, NC_000004.12 (26105449..26435131)	AOS3, CBF-1, CBF1, IGKJRB, IGKJRB1, KBF2, RBP-J, RBP-J kappa, RBP-JKK, RBPSUH, SUH, csl, RBPJ 
+Select item 146956EME1
+
+essential meiotic structure-specific endonuclease 1 [Homo sapiens (human)]	Chromosome 17, NC_000017.11 (50373229..50381483)	MMS4L, SLX2A 
+Select item 5884RAD17
+
+RAD17 checkpoint clamp loader component [Homo sapiens (human)]	Chromosome 5, NC_000005.10 (69369293..69414801)	CCYC, HRAD17, R24LSP, RAD24, RAD17 
+Select item 23049SMG1
+
+SMG1 nonsense mediated mRNA decay associated PI3K related kinase [Homo sapiens (human)]	Chromosome 16, NC_000016.10 (18804860..18926408, complement)	61E3.4, ATX, LIP 
+Select item 54537SHLD2
+
+shieldin complex subunit 2 [Homo sapiens (human)]	Chromosome 10, NC_000010.11 (87094473..87191465)	FAM35A, FAM35A1, RINN2, bA163M19.1 
+Select item 85456TNKS1BP1
+
+tankyrase 1 binding protein 1 [Homo sapiens (human)]	Chromosome 11, NC_000011.10 (57299642..57324952, complement)	CNOT12, TAB182 
+Select item 54891INO80D
+
+INO80 complex subunit D [Homo sapiens (human)]	Chromosome 2, NC_000002.12 (205993721..206086174, complement)	 
+Select item 10519CIB1
+
+calcium and integrin binding 1 [Homo sapiens (human)]	Chromosome 15, NC_000015.10 (90229975..90265759, complement)	CIB, CIBP, EV3, KIP1, PRKDCIP, SIP2-28 
+Select item 10951CBX1
+
+chromobox 1 [Homo sapiens (human)]	Chromosome 17, NC_000017.11 (48070059..48101478, complement)	CBX, HP1-BETA, HP1Hs-beta, HP1Hsbeta, Hp1beta, M31, MOD1, p25beta 
+Select item 22992KDM2A
+
+lysine demethylase 2A [Homo sapiens (human)]	Chromosome 11, NC_000011.10 (67119263..67258082)	CXXC8, FBL11, FBL7, FBXL11, JHDM1A, LILINA 
+Select item 149840SHLD1
+
+shieldin complex subunit 1 [Homo sapiens (human)]	Chromosome 20, NC_000020.11 (5750193..5864395)	C20orf196, RINN3 
+Select item 84250SLF1
+
+SMC5/6 complex localization factor 1 [Homo sapiens (human)]	Chromosome 5, NC_000005.10 (94618231..94697621)	ANKRD32, BRCTD1, BRCTx, hNSE5 
+Select item 125476INO80C
+
+INO80 complex subunit C [Homo sapiens (human)]	Chromosome 18, NC_000018.10 (35468333..35497960, complement)	C18orf37, IES6, hIes6	
+Select item 10735STAG2
+
+STAG2 cohesin complex component [Homo sapiens (human)]	Chromosome X, NC_000023.11 (123960560..124102656)	HPE13, MKMS, NEDXCF, SA-2, SA2, SCC3B, bA517O1.1 
+
+INO80B
+
+INO80 complex subunit B [Homo sapiens (human)]	Chromosome 2, NC_000002.12 (74455087..74457944)	HMGA1L4, HMGIYL4, IES2, PAP-1BP, PAPA-1, PAPA1, ZNHIT4, hIes2 
+Select item 4831NME2
+
+NME/NM23 nucleoside diphosphate kinase 2 [Homo sapiens (human)]	Chromosome 17, NC_000017.11 (51165536..51171744)	NDKB, NDPK-B, NDPKB, NM23-H2, NM23B, PUF 
+Select item 5514PPP1R10
+
+protein phosphatase 1 regulatory subunit 10 [Homo sapiens (human)]	Chromosome 6, NC_000006.12 (30600413..30617243, complement)	CAT53, FB19, PNUTS, PP1R10, R111, p99 
+Select item 27316RBMX
+
+RNA binding motif protein X-linked [Homo sapiens (human)]	Chromosome X, NC_000023.11 (136869192..136880725, complement)	HNRNPG, HNRPG, MRXS11, MRXSG, MRXSHP1, RBMXRT, RNMX, hnRNP-G, RBMX 
+Select item 24144TFIP11
+
+tuftelin interacting protein 11 [Homo sapiens (human)]	Chromosome 22, NC_000022.11 (26491240..26512473, complement)	NTR1, STIP, STIP-1, Spp382, TIP39, bK445C9.6 
+Select item 10432RBM14
+
+RNA binding motif protein 14 [Homo sapiens (human)]	Chromosome 11, NC_000011.10 (66616630..66629934)	COAA, PSP2, SIP, SYTIP1, TMEM137 
+Select item 245711SPDYA
+
+speedy/RINGO cell cycle regulator family member A [Homo sapiens (human)]	Chromosome 2, NC_000002.12 (28810834..28850610)	RINGO3, RINGOA, SPDY1, SPY1 
+Select item 55719SLF2
+
+SMC5/6 complex localization factor 2 [Homo sapiens (human)]	Chromosome 10, NC_000010.11 (100912963..100965134)	ATELS1, C10orf6, FAM178A, hNSE6 
+Select item 3006H1-2
+
+H1.2 linker histone, cluster member [Homo sapiens (human)]	Chromosome 6, NC_000006.12 (26055740..26056470, complement)	H1.2, H1C, H1F2, H1s-1, HIST1H1C 
+Select item 64282TENT4B
+
+terminal nucleotidyltransferase 4B [Homo sapiens (human)]	Chromosome 16, NC_000016.10 (50152911..50235310)	PAPD5, TRF4-2, TUT3 
+Select item 283899INO80E
+
+INO80 complex subunit E [Homo sapiens (human)]	Chromosome 16, NC_000016.10 (29996241..30005791)	CCDC95	
+Select item 284119CAVIN1
+
+caveolae associated protein 1 [Homo sapiens (human)]	Chromosome 17, NC_000017.11 (42402449..42423256, complement)	CAVIN, CGL4, FKSG13, PTRF, cavin-1 
+Select item 84632AFAP1L2
+
+actin filament associated protein 1 like 2 [Homo sapiens (human)]	Chromosome 10, NC_000010.11 (114280725..114405175, complement)	CTB-1144G6.4, KIAA1914, XB130 
+Select item 112441434SHLD3
+
+shieldin complex subunit 3 [Homo sapiens (human)]	Chromosome 5, NC_000005.10 (65625027..65630928)	CTC-534A2.2, RINN1 
+Select item 55388MCM10
+
+minichromosome maintenance 10 replication initiation factor [Homo sapiens (human)]	Chromosome 10, NC_000010.11 (13161558..13211110)	CNA43, DNA43, IMD80, PRO2249 
+Select item 23626SPO11
+
+SPO11 initiator of meiotic double strand breaks [Homo sapiens (human)]	Chromosome 20, NC_000020.11 (57329803..57343993)	CT35, SPATA43, TOPOVIA, TOPVIA 
+Select item 246243RNASEH1
+
+ribonuclease H1 [Homo sapiens (human)]	Chromosome 2, NC_000002.12 (3531813..3558333, complement)	H1RNA, PEOB2, RNH1 
+Select item 197370NSMCE1
+
+NSE1 component of SMC5/6 complex [Homo sapiens (human)]	Chromosome 16, NC_000016.10 (27224994..27268772, complement)	NSE1 
+Select item 147872KASH5
+
+KASH domain containing 5 [Homo sapiens (human)]	Chromosome 19, NC_000019.10 (49388249..49417990)	CCDC155, POF22, SPGF88 
+Select item 56160NSMCE3
+
+NSE3 component of SMC5/6 complex [Homo sapiens (human)]	Chromosome 15, NC_000015.10 (29264989..29269822, complement)	HCA4, LICS, MAGEG1, MAGEL3, NDNL2, NSE3 
+
+EID3
+
+EP300 interacting inhibitor of differentiation 3 [Homo sapiens (human)]	Chromosome 12, NC_000012.12 (104303739..104305205)	NS4EB, NSE4B, NSMCE4B 
+Select item 64400AKTIP
+
+AKT interacting protein [Homo sapiens (human)]	Chromosome 16, NC_000016.10 (53491040..53504412, complement)	FT1, FTS 
+Select item 197342EME2
+
+essential meiotic structure-specific endonuclease subunit 2 [Homo sapiens (human)]	Chromosome 16, NC_000016.10 (1772810..1781702)	SLX2B, gs125 
+Select item 54780NSMCE4A
+
+NSE4A component of SMC5/6 complex [Homo sapiens (human)]	Chromosome 10, NC_000010.11 (121957091..121975217, complement)	C10orf86, NS4EA, NSE4A 
+Select item 8545CGGBP1
+
+CGG triplet repeat binding protein 1 [Homo sapiens (human)]	Chromosome 3, NC_000003.12 (88051950..88149870, complement)	CGGBP, p20-CGGBP 
+Select item 60561RINT1
+
+RAD50 interactor 1 [Homo sapiens (human)]	Chromosome 7, NC_000007.14 (105532201..105567677)	ILFS3, RINT-1 
+Select item 283129MAJIN
+
+membrane anchored junction protein [Homo sapiens (human)]	Chromosome 11, NC_000011.10 (64938230..64972108, complement)	C11orf85 
+Select item 135458HUS1B
+
+HUS1 checkpoint clamp component B [Homo sapiens (human)]	Chromosome 6, NC_000006.12 (655939..657100, complement)	 
+Select item 23635SSBP2
+
+single stranded DNA binding protein 2 [Homo sapiens (human)]	Chromosome 5, NC_000005.10 (81412804..81751807, complement)	HSPC116, SOSS-B2 
+Select item 100533107RTEL1-TNFRSF6B
+
+RTEL1-TNFRSF6B readthrough (NMD candidate) [Homo sapiens (human)]	Chromosome 20, NC_000020.11 (63657810..63698698)		
+Select item 84153RNASEH2C
+
+ribonuclease H2 subunit C [Homo sapiens (human)]	Chromosome 11, NC_000011.10 (65717673..65720798, complement)	AGS3, AYP1 
+Select item 128710SLX4IP
+
+SLX4 interacting protein [Homo sapiens (human)]	Chromosome 20, NC_000020.11 (10435305..10628030)	C20orf94, bA204H22.1, bA254M13.1, dJ1099D15.3	615958
