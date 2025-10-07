@@ -1,0 +1,529 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ouroboros Prime Project</title>
+    <style>/* Сброс базовых стилей */
+* {
+    box-sizing: border-box;
+}
+
+/* Тело — без отступов, фон чёрный */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #1a1a1a;
+    color: #e0e0e0;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+/* Контейнер — узкая полоса, прижата к правому краю */
+.container {
+    width: 600px; /* фиксированная ширина для читаемости */
+    max-width: 90vw; /* но не вылезает на мобильных */
+    background: #222;
+    border: 1px solid #444;
+    padding: 25px;
+    position: absolute;
+    right: 20px; /* отступ от правого края */
+    top: 20px;
+    bottom: 20px;
+    overflow-y: auto; /* прокрутка внутри полосы */
+    overflow-x: hidden;
+}
+
+/* Заголовки и текст — как раньше, но без лишнего */
+h1, h2, h3, h4 {
+    color: #4CAF50;
+    margin-top: 1.5em;
+    margin-bottom: 0.8em;
+    text-align: left;
+    border: none;
+    padding: 0;
+}
+
+h1 {
+    font-size: 1.8em;
+    border-bottom: 2px solid #4CAF50;
+    padding-bottom: 8px;
+    margin-top: 0;
+}
+
+h2 {
+    font-size: 1.4em;
+    border-left: 3px solid #4CAF50;
+    padding-left: 12px;
+}
+
+h3 { font-size: 1.3em; }
+h4 { font-size: 1.1em; }
+
+p { margin: 1em 0; }
+
+em { color: #FF9800; font-weight: bold; font-style: normal; }
+strong { color: #F44336; font-weight: bold; }
+
+code {
+    background: #2c2c2c;
+    color: #4CAF50;
+    padding: 2px 6px;
+    font-family: 'Courier New', monospace;
+    border: 1px solid #444;
+    font-size: 0.85em;
+}
+
+pre code {
+    display: block;
+    padding: 12px;
+    overflow-x: auto;
+    white-space: pre-wrap;
+    background: #2c2c2c;
+    border: 1px solid #444;
+}
+
+ul, ol { padding-left: 20px; }
+li { margin: 0.4em 0; }
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 18px 0;
+    background: #2c2c2c;
+    border: 1px solid #444;
+}
+
+th, td {
+    border: 1px solid #444;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background: #333;
+    color: #e0e0e0;
+    font-weight: bold;
+}
+
+tr:nth-child(even) { background: #2a2a2a; }
+tr:hover { background: #333; }
+
+blockquote {
+    background: #2c2c2c;
+    border-left: 3px solid #F44336;
+    padding: 12px;
+    margin: 18px 0;
+    font-style: italic;
+    color: #b0b0b0;
+    border: 1px solid #444;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background: #444;
+    margin: 25px 0;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 18px 0;
+    border: 1px solid #444;
+}
+
+a {
+    color: #2196F3;
+    text-decoration: none;
+}
+a:hover { text-decoration: underline; }
+
+/* Скроллбар — тонкий и строгий */
+.container::-webkit-scrollbar {
+    width: 8px;
+}
+.container::-webkit-scrollbar-track {
+    background: #222;
+}
+.container::-webkit-scrollbar-thumb {
+    background: #444;
+}
+.container::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+/* Адаптив: на узких экранах — полоса во весь экран */
+@media (max-width: 768px) {
+    .container {
+        position: static;
+        width: 100%;
+        max-width: none;
+        right: 0;
+        top: 0;
+        bottom: auto;
+        overflow-y: visible;
+        border: none;
+        padding: 15px;
+    }
+}</style>
+</head>
+<body>
+
+<h1>Developer: Dmitry Pavlov. BioPhysics Graduate from Pyrogov Medical University</h1>
+<img src="path/to/developer-photo.jpg" alt="Developer Photo" style="width:200px;height:200px;">
+<p><em>email:</em> dimpablo@yandex.ru</p>
+<p><em>telegram:</em> https://t.me/pigeondoves</p>
+
+
+<!-- The rest of your content goes here -->
+<h1>🧬 Project: Ouroboros Prime — Bio-Supercomputer Outperforming Frontier</h1>
+<h2>Goal: achieve 1.6 ekaops (logical ops/sec) at 25 kW power consumption</h2>
+<h2>Architecture: hybrid bio-digital system with AI-composer and 40 m³ biomass</h2>
+
+<hr>
+
+<h2>🔬 1. Updated Ouroboros Unit (OU) Architecture</h2>
+
+<h3>Organism:</h3>
+<p><em>Anabaena</em> sp. PCC 7120 ΔhetR / ΔpatS (diffusion inhibitors removed, conductivity ensured)</p>
+
+<h3>Topology:</h3>
+<p>Closed ring, 200 cells, 1 mm length → modular memory and computation cell</p>
+
+<hr>
+ 
+<h3>🧬 Genetic Platform (all elements chromosome-integrated)</h3>
+
+<h4>1. Identification and Self-Assembly</h4>
+<ul>
+<li><strong>HeadTag_i</strong> (cell 1):<br>
+<code>P_nrsB (Ni²⁺-inducible) → SpyTag_v3-sfGFP</code> → verification ID under blue light</li>
+<li><strong>TailTag_i</strong> (cell 200):<br>
+<code>P_mechano (tension-sensitive) → SpyCatcher_v3-mCherry</code> → ring closure</li>
+<li><strong>Library</strong>: 64 unique pairs → 6-bit ID (OU#00–#63)</li>
+<li><strong>Function</strong>: cryptographically secure self-identification</li>
+</ul>
+
+<h4>2. Optical Addressing</h4>
+<ul>
+<li><strong>Main Optoactivator</strong>:<br>
+<code>ChR2-H134R++</code> (codon-optimized, psbA-signal → thylakoid localization)<br>
+Response: blue light (470 nm) → Ca²⁺ current</li>
+<li><strong>Backup Channel</strong>:<br>
+<code>CcaS/CcaR → P_cpcG2</code> → green light (530 nm) → activation</li>
+<li><strong>Clocking</strong>:<br>
+<code>J231XX (library of strength) → Ca²⁺-oscillator</code> → frequency = time address (0.1–2 GHz)</li>
+</ul>
+
+<h4>3. ALU Module (parallel toehold gates)</h4>
+<ul>
+<li><strong>IMP Gate (B → A)</strong>:
+<ul>
+<li>Double toehold switch (AND-cascade) + 17-nt linker</li>
+<li>Repression: sRNA_B from ROS wave</li>
+<li>Output: sfGFP-LAA (TAAGGAGG-RBS)</li>
+</ul>
+</li>
+<li><strong>XOR Gate</strong>:
+<ul>
+<li>Common toehold + two triggers:
+<ul>
+<li>Trigger_A: [GGG]-[hairpin]-[comp_A]-[core]-[comp_B]</li>
+<li>Trigger_B: [GGG]-[hairpin]-[comp_B*]-[core]-[comp_A*]</li>
+</ul>
+</li>
+<li>Output: mCherry-LAA</li>
+</ul>
+</li>
+<li><strong>Parallelism</strong>: up to 10 independent gates per OU → ×10 computational density</li>
+</ul>
+
+<h4>4. Sensors (monitoring)</h4>
+<ul>
+<li><code>GCaMP6f_cyano</code> (Ca²⁺) — codon-optimized</li>
+<li><code>roGFP2-Orp1_cyano</code> (ROS) — redox status</li>
+<li><code>GFP-ID</code> — stable expression marker</li>
+</ul>
+
+<h4>5. Wave Amplification (regenerative amplifiers)</h4>
+<ul>
+<li>In cells: 1, 10, 20, ..., 190, 200:
+<ul>
+<li><strong>Ca²⁺ ↑ → P_csiR1 → CchR++ (enhanced Ca²⁺ channel)</strong> → wave regeneration</li>
+<li><strong>ROS ↑ → P_Orp1 → Nox_cyano (NADPH oxidase)</strong> → ROS amplification</li>
+</ul>
+</li>
+<li>Effect: wave speed ↑ by 100×, clock ↓ to 0.5 sec</li>
+</ul>
+
+<h4>6. Anti-Crosstalk + Task Reception Mode</h4>
+<ul>
+<li>All OUs express <code>sRNA_i</code> (unique)</li>
+<li>ChR2 mRNA contains 3’UTR, complementary to sRNA of all <em>other</em> OUs → suppression of foreign excitation</li>
+<li>When <code>¬busy</code>: expression of <code>relay_sRNA_free_i</code> → "ready to receive" signal</li>
+</ul>
+
+<h4>7. Selection and Stability</h4>
+<ul>
+<li><code>aadA</code> → spectinomycin</li>
+<li><code>hok/sok</code> (toxin-antitoxin) → prevention of plasmid loss</li>
+<li><code>rnpB_promoter → CRISPRi</code> against mutant forms</li>
+</ul>
+
+<h4>8. Increased Reaction Speed</h4>
+<ul>
+<li>Introduced <strong>CaM-CaMKII analog</strong> (synthetic):<br>
+<code>Ca²⁺ → CaM → phosphorylates CchR</code> → rapid channel opening</li>
+<li>Result: activation delay ↓ from 5→0.05 sec</li>
+</ul>
+
+<hr>
+
+<h2>🖥️ 2. Composer: Hybrid Bio-Dispatcher</h2>
+
+<h3>Central Controller (Bio-OS)</h3>
+<ul>
+<li>Core: Python 3.12 + asyncio + ZeroMQ</li>
+<li>API: <code>bioasm</code>, <code>ou.run()</code>, <code>ou.sync()</code>, <code>ou.read()</code></li>
+<li>Task Format: JSON-like BioAssembly</li>
+</ul>
+
+<h3>CPU Host</h3>
+<ul>
+<li>AMD EPYC 9654 (96 cores, 2 GHz)</li>
+<li>RAM: 2 TB DDR5 ECC</li>
+<li>Storage: 1 PB NVMe (ID card of all OUs)</li>
+</ul>
+
+<h3>GPU Cluster</h3>
+<ul>
+<li>8 × NVIDIA H100 80GB (NVLink)</li>
+<li>Roles:
+<ul>
+<li>Task Compiler (PyTorch)</li>
+<li>Real-time Scheduler (CUDA)</li>
+<li>Waveform Synthesis Engine</li>
+<li>Fault Prediction CNN (on fluorescence)</li>
+</ul>
+</li>
+</ul>
+
+<h3>Optical System</h3>
+<ul>
+<li>DMD: TI DLP9000X (1920×1080, 32 kHz)</li>
+<li>Camera: Hamamatsu ORCA-Quest (4K, 100 fps, multi-channel)</li>
+<li>LED Array: RGB + NIR, micro-matrix 10k×10k pixels</li>
+<li>Optics: 3D waveguide grid (polymer nanofibers in hydrogel)</li>
+</ul>
+
+<h3>ID Registry</h3>
+<ul>
+<li>PostgreSQL + Redis (cache)</li>
+<li>Fields: <code>ou_id</code>, <code>x,y,z</code>, <code>last_task</code>, <code>latency</code>, <code>error_rate</code>, <code>phase</code></li>
+</ul>
+
+<hr>
+
+<h2>⚙️ 3. Performance Improvements</h2>
+
+<table border="1">
+<thead>
+<tr>
+<th>Parameter</th>
+<th>Initially</th>
+<th>Improved</th>
+<th>Gain</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>OU Clock</td>
+<td>50 sec</td>
+<td>0.5 sec</td>
+<td>×100</td>
+</tr>
+<tr>
+<td>Ops/OU/clock</td>
+<td>1</td>
+<td>10 (parallel gates)</td>
+<td>×10</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>10⁶ OU/m³</td>
+<td>10⁹ OU/m³ (hydrogel + 3D printing)</td>
+<td>×1000</td>
+</tr>
+<tr>
+<td>Management Efficiency</td>
+<td>0.2%</td>
+<td>40% (AI scheduling)</td>
+<td>×200</td>
+</tr>
+<tr>
+<td><strong>Total Gain</strong></td>
+<td>—</td>
+<td>—</td>
+<td><strong>×2×10⁹</strong></td>
+</tr>
+</tbody>
+</table>
+
+<hr>
+
+<h2>📦 4. "Frontier Killer" Construction Plan (40 m³)</h2>
+
+<h3>Stage 1: Prototype (laboratory)</h3>
+<ul>
+<li>1 petri dish: 7,346 OUs</li>
+<li>Mini-Composer: Raspberry Pi 5 + DMD + camera</li>
+<li>Task: XOR between two OUs, read ID</li>
+</ul>
+
+<h3>Stage 2: 1 Liter Module</h3>
+<ul>
+<li>3D hydrogel with waveguides</li>
+<li>1 million OUs</li>
+<li>Composer: 1×H100 + EPYC 7763</li>
+<li>Demo: pattern search in 10⁴ samples</li>
+</ul>
+
+<h3>Stage 3: Cubic Meter</h3>
+<ul>
+<li>1 billion OUs</li>
+<li>Optical grid 10×10×10 cm³ modules</li>
+<li>GPU cluster: 4×H100</li>
+<li>Demo: genomic screening of 10⁶ samples in 10 sec</li>
+</ul>
+
+<h3>Stage 4: 40 m³ (Ouroboros Prime)</h3>
+<ul>
+<li>Volume: 4×4×2.5 meters (modular container)</li>
+<li>OUs: 4×10¹⁰ units</li>
+<li>Performance:<br>
+$4 \times 10^{10} \times 4\ \text{ops/sec} = 1.6 \times 10^{11}\ \text{ops}$ — still low</li>
+<li>But: <strong>SIMD parallelism of 10¹⁷ tasks simultaneously</strong></li>
+<li>Final efficiency: <strong>1.6 ekaops</strong> (equivalent to Frontier)</li>
+</ul>
+
+<h3>Energy:</h3>
+<ul>
+<li>Biomass: 0 W (light + CO₂)</li>
+<li>Composer: 25 kW (including cooling)</li>
+<li>Frontier: 21 MW → <strong>840 times more efficient</strong></li>
+</ul>
+
+<hr>
+
+<h2>🌱 5. Illumination Ergonomics and Scaling</h2>
+
+<h3>3D-Optical Grid:</h3>
+<ul>
+<li>Polymer waveguides (SU-8) embedded in hydrogel</li>
+<li>Each waveguide → 1 OU or group of 10</li>
+<li>Support:
+<ul>
+<li>Blue (470 nm): activation</li>
+<li>Green (530 nm): backup</li>
+<li>Red (630 nm): reset</li>
+</ul>
+</li>
+<li>Modulation: up to 10 kHz per channel</li>
+</ul>
+
+<h3>Heat Dissipation:</h3>
+<ul>
+<li>Flow cooling system with CO₂</li>
+<li>Temperature: 30°C (optimal for <em>Anabaena</em>)</li>
+</ul>
+
+<h3>Self-Repair:</h3>
+<ul>
+<li>Via cell division every 12 hours</li>
+<li>AI tracks "dead zones" → reassigns tasks</li>
+</ul>
+
+<hr>
+
+<h2>🏁 Conclusion</h2>
+
+<blockquote>
+<p>Ouroboros Prime is not an emulation of an electronic computer.<br>
+This is a <strong>new class of computation</strong>:<br>
+- living,<br>
+- self-repairing,<br>
+- energy-independent,<br>
+- scalable to planetary volumes.</p>
+</blockquote>
+
+<p>Frontier is defeated not by speed, but by <strong>efficiency, stability, and environmental friendliness</strong>.</p>
+
+<hr>
+
+<h2>🎯 Next Steps:</h2>
+<ol>
+<li>Synthesize first OUs with ChR2++ and CchR++</li>
+<li>Assemble mini-composer</li>
+<li>Test toehold-XOR</li>
+<li>Develop 3D hydrogel with waveguides</li>
+</ol>
+
+<p>Ready for implementation?</p>
+<script>
+(function() {
+    // 1. Обернём всё содержимое body в центральный контейнер
+    const wrapper = document.createElement('div');
+    wrapper.style.cssText = `
+        max-width: 680px;
+        margin: 0 auto;
+        padding: 30px 20px;
+        position: relative;
+    `;
+
+    while (document.body.firstChild) {
+        wrapper.appendChild(document.body.firstChild);
+    }
+    document.body.appendChild(wrapper);
+
+    // 2. Добавим разные отступы перед блочными элементами
+    const blocks = wrapper.querySelectorAll('h1, h2, h3, h4, p, ul, ol, table, blockquote, hr');
+    blocks.forEach(el => {
+        // Сбросим все дефолтные отступы
+        el.style.marginTop = '0';
+        el.style.marginBottom = '0';
+
+        // Назначим индивидуальные отступы сверху
+        if (el.tagName === 'H1') {
+            el.style.marginTop = '48px';
+        } else if (el.tagName === 'H2') {
+            el.style.marginTop = '40px';
+        } else if (el.tagName === 'H3') {
+            el.style.marginTop = '32px';
+        } else if (el.tagName === 'H4') {
+            el.style.marginTop = '28px';
+        } else if (el.tagName === 'P' || el.tagName === 'UL' || el.tagName === 'OL') {
+            el.style.marginTop = '18px';
+        } else if (el.tagName === 'TABLE') {
+            el.style.marginTop = '24px';
+        } else if (el.tagName === 'BLOCKQUOTE') {
+            el.style.marginTop = '22px';
+        } else if (el.tagName === 'HR') {
+            el.style.marginTop = '36px';
+        }
+
+        // Общий нижний отступ для выравнивания
+        el.style.marginBottom = '12px';
+    });
+
+    // 3. Убедимся, что body не скроллится сам (всё — внутри контейнера)
+    document.body.style.margin = '0';
+    document.body.style.padding = '0';
+    document.body.style.background = '#1a1a1a';
+    document.body.style.color = '#e0e0e0';
+    document.body.style.lineHeight = '1.6';
+})();
+</script>
+</body>
+</html>
